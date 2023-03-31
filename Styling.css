@@ -1,0 +1,24 @@
+body {
+    background-color:burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+h1 { color: rgb(100, 60, 0); 
+    background-color: aqua;
+    width: 50% ;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    text-decoration: underline;
+    border: 5px solid whitesmoke;
+    border-radius: 5px;
+    text-align: center;
+}
+
+p {
+
+    text-align: center;
+    color: crimson;
+
+}
