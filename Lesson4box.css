@@ -1,0 +1,48 @@
+div{ 
+
+    background-color: indianred;
+    border: 1px black;
+    margin: 10px 0px; 
+    width: 50%;
+    margin: auto;
+
+}
+
+body{
+
+ background-color: crimson; 
+    
+}
+
+#box1{
+    background-color: aqua;
+    width: 25%;
+
+}
+
+#box3{
+
+    background-color: blueviolet;
+}
+
+#box5{
+
+    background-color: chartreuse;
+
+}
+
+.box2{
+
+    background-color: dimgray;
+
+}
+
+.box4{
+
+    background-color: mediumspringgreen;
+}
+
+#box1image{
+    width: 25%%;
+
+}
